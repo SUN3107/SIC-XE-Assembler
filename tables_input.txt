@@ -1,0 +1,14 @@
+SYMBOL TABLE-
+
+:-	Name:undefined	|Address:0	|Relative:00000 
+0:-	Name:	|Address:0	|Relative:00000 
+COUNT:-	Name:COUNT	|Address:0001D	|Relative:00001 
+FIRST:-	Name:FIRST	|Address:00000	|Relative:00001 
+LOOP:-	Name:LOOP	|Address:0000A	|Relative:00001 
+TABLE:-	Name:TABLE	|Address:00020	|Relative:00001 
+TABLE2:-	Name:TABLE2	|Address:01790	|Relative:00001 
+TOTAL:-	Name:TOTAL	|Address:02F00	|Relative:00001 
+
+LITERAL TABLE-
+
+
